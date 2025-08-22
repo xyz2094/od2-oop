@@ -9,7 +9,7 @@ from distribution import (
 def menu_principal():
     """Função principal que gerencia o loop do menu e a criação do personagem."""
     while True:
-        print("\n===== CRIADOR DE PERSONAGENS DE RPG =====\n")
+        print("\n===== OLD DRAGON 2 =====\n")
         print("Escolha o método de distribuição de atributos:")
         print("1. Estilo Clássico (3d6 em ordem, aleatório e desafiador)")
         print("2. Estilo Aventureiro (3d6, você distribui os resultados)")
